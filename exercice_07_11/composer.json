@@ -1,0 +1,13 @@
+{
+    "name": "max/exercice_07_11",
+    "authors": [
+        {
+            "name": "maxaloc",
+            "email": "maxaloc@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4": {"Hetic\\": "src/"}
+	}
+}
